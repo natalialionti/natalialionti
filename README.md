@@ -1,5 +1,14 @@
 ### ¡Hola! Soy Natalia, programadora y viajera 👋
 
+- 🔭 Estoy cursando fullstack en Digital House
+- 🌱 Soy profe de música y saxofonista
+- 👯 Me gustaría combinar el trabajo con los viajes
+- 🤔 Estoy en la búsqueda de nuevos conocimientos y habilidades constantemente
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 
 <!--
 **natalialionti/natalialionti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

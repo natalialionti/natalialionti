@@ -5,10 +5,7 @@
 - 👯 Me gusta conocer gente y culturas nuevas
 - 😄 Estoy en la búsqueda de nuevos conocimientos y habilidades constantemente
 - 💬 Me gusta trabajar en equipo y plantearme desafíos
-- 📫 
-- 😄   
-- ⚡
-- 
+
 <!--
 **natalialionti/natalialionti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
